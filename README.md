@@ -18,15 +18,15 @@
 ## 🚀 Projects  
 - 📊 **[Zepto Inventory Analysis (Power BI)](https://raw.githubusercontent.com/PrachiGupta227/Zepto-inventory-dashboard/refs/heads/main/zepto%20dashboard.pbit)**  
   *An interactive dashboard exploring sales & inventory performance.*  
-  ![Dashboard Preview](https://via.placeholder.com/600x300.png?text=Project+Screenshot)
+  ![Dashboard Preview](https://github.com/PrachiGupta227/Zepto-inventory-dashboard/blob/main/snapshot%20of%20Zepto%20Inventory%20Dashboard.png            )
 
 - 📈 **[Google Playstore Dashboard (Power BI)](https://raw.githubusercontent.com/PrachiGupta227/Google-Playstore-Dashboard/refs/heads/main/googleplaystore.pbix)**  
-  *Python-based backtesting and visualization of trading strategies.*  
-  ![Backtest Preview](https://via.placeholder.com/600x300.png?text=Project+Screenshot)
+  *An interactive Power BI dashboard that breaks down Google Playstore apps data into simple, visual insights. From installs and ratings to categories and reviews, this dashboard gives a clear picture of what’s trending, which apps are performing well, and how different genres stack up against each other.*  
+  ![Backtest Preview](https://github.com/PrachiGupta227/Google-Playstore-Dashboard/blob/main/Google%20Playstore%20Dashboard.png)
   
-- 📈 **[Online Bookstore SQL project (Postgre SQL)](YourProjectLinkHere)**  
-  *Python-based backtesting and visualization of trading strategies.*  
-  ![Backtest Preview](https://via.placeholder.com/600x300.png?text=Project+Screenshot)
+- 📈 **[Online Bookstore SQL project (Postgre SQL)]()**  
+  *A hands-on SQL project designed around an Online Bookstore dataset. The project uses three interconnected tables (Books, Customers, Orders) to solve a variety of queries ranging from simple data retrieval to complex aggregations*  
+  
   
 
 ---
