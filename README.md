@@ -24,9 +24,10 @@
   *An interactive Power BI dashboard that breaks down Google Playstore apps data into simple, visual insights. From installs and ratings to categories and reviews, this dashboard gives a clear picture of what’s trending, which apps are performing well, and how different genres stack up against each other.*  
   ![Backtest Preview](https://github.com/PrachiGupta227/Google-Playstore-Dashboard/blob/main/Google%20Playstore%20Dashboard.png)
   
-- 📈 **[Online Bookstore SQL project (Postgre SQL)]()**  
+- 📈 **[Online Bookstore SQL project (Postgre SQL)](https://github.com/PrachiGupta227/Online-Bookstore-SQL-project/blob/main/project%20bookstore.sql)**  
   *A hands-on SQL project designed around an Online Bookstore dataset. The project uses three interconnected tables (Books, Customers, Orders) to solve a variety of queries ranging from simple data retrieval to complex aggregations*  
-  
+  Customers (Customer_ID) ────< Orders >──── (Book_ID) Books
+
   
 
 ---
