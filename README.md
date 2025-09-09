@@ -16,15 +16,15 @@
 ---
 
 ## 🚀 Projects  
-- 📊 **[Zepto Inventory Analysis (Power BI)](YourProjectLinkHere)**  
+- 📊 **[Zepto Inventory Analysis (Power BI)](https://raw.githubusercontent.com/PrachiGupta227/Zepto-inventory-dashboard/refs/heads/main/zepto%20dashboard.pbit)**  
   *An interactive dashboard exploring sales & inventory performance.*  
   ![Dashboard Preview](https://via.placeholder.com/600x300.png?text=Project+Screenshot)
 
-- 📈 **[Google Playstore Dashboard (Power BI)](YourProjectLinkHere)**  
+- 📈 **[Google Playstore Dashboard (Power BI)](https://raw.githubusercontent.com/PrachiGupta227/Google-Playstore-Dashboard/refs/heads/main/googleplaystore.pbix)**  
   *Python-based backtesting and visualization of trading strategies.*  
   ![Backtest Preview](https://via.placeholder.com/600x300.png?text=Project+Screenshot)
   
-- 📈 **[Google Playstore Dashboard (Power BI)](YourProjectLinkHere)**  
+- 📈 **[Online Bookstore SQL project (Postgre SQL)](YourProjectLinkHere)**  
   *Python-based backtesting and visualization of trading strategies.*  
   ![Backtest Preview](https://via.placeholder.com/600x300.png?text=Project+Screenshot)
   
