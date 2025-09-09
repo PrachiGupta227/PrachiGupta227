@@ -1,13 +1,9 @@
 
 
 # <h1 align="center">Hi 👋, I'm Prachi Gupta</h1>
-<h3 align="center">An Economics student exploring Data Analytics!</h3>
+<h3 align="center">Analytical and detail-oriented Economics undergraduate with hands-on experience in data analytics, visualization, and reporting. Proficient in Excel, Power BI, SQL, and Python. Skilled in building dashboards, managing databases, and presenting insights to support business decisions. Strong communicator with experience collaborating in cross-functional teams.
 
----
-
-## 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prachigupta227/)  
-[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](Guptaprachi.0722@gmail.com)
+</h3>
 
 ---
 
@@ -27,6 +23,17 @@
 - 📈 **[Google Playstore Dashboard (Power BI)](YourProjectLinkHere)**  
   *Python-based backtesting and visualization of trading strategies.*  
   ![Backtest Preview](https://via.placeholder.com/600x300.png?text=Project+Screenshot)
+  
+- 📈 **[Google Playstore Dashboard (Power BI)](YourProjectLinkHere)**  
+  *Python-based backtesting and visualization of trading strategies.*  
+  ![Backtest Preview](https://via.placeholder.com/600x300.png?text=Project+Screenshot)
+  
+
+---
+
+  ## 🔗 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prachigupta227/)  
+[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](Guptaprachi.0722@gmail.com)
 
 ---
 
